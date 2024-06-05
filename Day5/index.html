@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example</title>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        console.log('DOM fully loaded and parsed');
+      });
+
+      window.addEventListener('load', function () {
+        console.log('Page fully loaded');
+      });
+    </script>
+  </head>
+  <body>
+    <p>Hello, World!</p>
+    <img
+      src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-20.png"
+      alt="logo-geeksforgeeks"
+      id="image"
+    />
+    <button type="submit" onclick="myFunc()">Get height and width</button>
+    <div style="background-color: lightgray">
+      <div id="height"></div>
+
+      <div id="width"></div>
+    </div>
+    <script>
+      console.log('Script executed after HTML is parsed');
+    </script>
+    <script src="166.js"></script>
+  </body>
+</html>

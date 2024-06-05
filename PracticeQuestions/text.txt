@@ -1,0 +1,29 @@
+Q1:- 	What are the possible ways to create objects in JavaScript?
+Q2:- 	What is a prototype chain?
+Q3:-	What is the difference between Call, Apply and Bind?
+Q4:- 	What is JSON and its common operations?
+Q5:- 	What is the purpose of the array slice method?
+Q6:- 	What is the purpose of the array splice method?
+Q7:- 	What is the difference between slice and splice?
+Q8:- 	How do you compare an Object with a Map?
+Q9:- 	What is the difference between == and === operators?
+Q10:- 	What are lambda expression or arrow functions?
+Q11:- 	What is a first class function?
+Q12:-	What is a first order function?
+Q13:-	What is a higher order function?
+Q14:-	What is a unary function?
+Q15:-	What is the currying function?
+Q16:-	What is a pure function?
+Q17:- 	What is the purpose of the let keyword?
+Q18:-	What is the difference between let and var?
+Q19:-	What is the reason to choose the name let as a keyword?
+Q20:-	How do you redeclare variables in switch block without an error?
+Q21:-	What is the Temporal Dead Zone?
+Q22:-	What is IIFE(Immediately Invoked Function Expression)?
+Q23:-	How do you decode or encode a URL in JavaScript?
+Q24:-	What is memoization?
+Q25:-	What is Hoisting?
+
+
+
+Above is the list of question you need to be ready by tomorrow-half. I want at least 2 coding examples for every question. Thank-you.

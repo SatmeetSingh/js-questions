@@ -1,0 +1,25 @@
+76	What is the difference between window and document
+77 	How do you access history in javascript
+78 	How do you detect caps lock key turned on or not
+79 	What is isNaN
+80 	What are the differences between undeclared and undefined variables
+81 	What are global variables
+82 	What are the problems with global variables
+83 	What is NaN property
+84 	What is the purpose of isFinite function
+85 	What is an event flow
+86 	What is event bubbling
+87 	What is event capturing
+88 	How do you submit a form using JavaScript
+89 	How do you find operating system details - navigator.platform
+90 	What is the difference between document load and DOMContentLoaded events
+91 	What is the difference between native, host and user objects
+92 	What are the tools or techniques used for debugging JavaScript code
+93 	What are the pros and cons of promises over callbacks
+94 	What is the difference between an attribute and a property
+95 	What is same-origin policy
+96 	What is the purpose of void 0
+97 	Is JavaScript a compiled or interpreted language
+98 	Is JavaScript a case-sensitive language
+99 	Is there any relation between Java and JavaScript
+100 	What are events
