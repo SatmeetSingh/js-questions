@@ -1,0 +1,25 @@
+51 	What is a promise - 
+52 	Why do you need a promise -
+53 	What are the three states of promise -
+54 	What is a callback function  -
+55 	Why do we need callbacks   -
+56 	What is a callback hell  -
+57 	What are server-sent events - 
+58 	How do you receive server-sent event notifications -
+59 	How do you check browser support for server-sent events - 
+60 	What are the events available for server sent events -
+61 	What are the main rules of promise -
+62 	What is callback in callback  -
+63 	What is promise chaining - 
+64 	What is promise.all -
+65 	What is the purpose of the race method in promise  -
+66 	What is a strict mode in javascript  -
+67 	Why do you need strict mode -
+68 	How do you declare strict mode   -
+69 	What is the purpose of double exclamation -
+70 	What is the purpose of the delete operator -
+71 	What is typeof operator  -
+72 	What is undefined property  -
+73 	What is null value -
+74 	What is the difference between null and undefined  -
+75 	What is eval -
